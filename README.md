@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jakeflandez
 - 👀 I’m interested in IaC and DevOps
 - 🌱 I’m currently learning AWS Certified Cloud Practitioner and Python
-- 💞️ I’m looking to collaborate on IaC projects, Coding labs with any language to understand more of what developers work with on a daily basis, and lastly fully understanding how Git/Github is used!
+- 💞️ I’m looking to collaborate on IaC projects, Coding labs with any language to understand more of what developers work with on a daily basis, and lastly, fully understanding how Git/Github is used!
 - 📫 How to reach me : 
 
 <!---
